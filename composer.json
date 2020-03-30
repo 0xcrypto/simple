@@ -1,4 +1,10 @@
 {
+    "name": "0xcrypto/simple",
+    "description": "The Simple Framework.",
+    "keywords": ["framework", "simple", "php"],
+    "license": "MIT",
+    "type": "project",
+    
     "require": {
         "altorouter/altorouter": "^2.0",
         "jenssegers/blade": "^1.3",
@@ -9,5 +15,8 @@
 	    "psr-4": {
 	        "Simple\\": "Simple"
 	    }
-	}
+	},
+    "config": {
+        "preferred-install": "dist"
+    }
 }
