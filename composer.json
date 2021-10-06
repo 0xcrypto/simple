@@ -1,6 +1,6 @@
 {
     "name": "0xcrypto/simple",
-    "description": "The Simple Framework.",
+    "description": "The <Simple> Framework.",
     "keywords": ["framework", "simple", "php"],
     "license": "MIT",
     "type": "project",
