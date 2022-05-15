@@ -1,6 +1,6 @@
 # Simple Framework
 
-A Simple PHP framework to help you make websites and web applications faster.
+A Simple PHP framework to help you make websites and web applications faster. [Fork](./fork)
 
 ## Getting Started
 
